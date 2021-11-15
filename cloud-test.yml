@@ -1,0 +1,2 @@
+config:
+ info: "这是来自git上的分布式配置中心信息,test环境"
